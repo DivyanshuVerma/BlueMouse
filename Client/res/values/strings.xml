@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">BlueMousev2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_connect">Connect</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <string name="title_activity_blue_mouse">BlueMouse</string>
+    <string name="BlueMouse">BlueMouse</string>
+    <string name="connect">Connect</string>
+    <string name="pcname">PC Name:</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item android:id="@+id/menu_connect"
+        android:title="@string/menu_connect"
+        android:icon="@drawable/menu_connect" />
+    <item android:id="@+id/menu_disconnect"
+        android:title="@string/menu_disconnect"
+        android:icon="@drawable/menu_disconnect" />
+    
+    <item android:id="@+id/speed"
+        android:title="Speed x1" />
+    
+    <item android:id="@+id/magnify"
+        android:title="Magnify" />
+</menu>
