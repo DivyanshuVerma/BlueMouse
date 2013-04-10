@@ -5,8 +5,8 @@ An Android application which lets you control your Computer's mouse via Bluetoot
 
 The application has two parts:
 
-* *Server* : Runs on Java
-* *Client* : Runs on Android
+* __Server__ : Runs on Java
+* __Client__ : Runs on Android
 
 It requires just the PC name to get connected to the host computer.
 Once the connection is established, the mouse can be controlled via the Android mobile's touch screen.
