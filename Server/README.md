@@ -1,7 +1,7 @@
 BlueMouse Server
 ================
 
-Server application for (BlueMouse)[https://github.com/DivyanshuVerma/BlueMouse	]
+Server application for [BlueMouse](https://github.com/DivyanshuVerma/BlueMouse)
 
 Note: Bluetooth should be turned __ON__
 
